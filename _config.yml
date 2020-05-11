@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Sample Doc
+description: Sample Doc to test Github Pages Features
+logo: logo.png
